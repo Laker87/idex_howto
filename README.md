@@ -11,7 +11,7 @@
 Примеры конфигурационных файлов можно найти [здесь](https://github.com/Laker87/klipper_config). Конфиг разбит на несколько файлов для удобства. 
 Основным является файл [printer.cfg](https://github.com/Laker87/klipper_config/blob/master/printer.cfg), он содержит настройки кинематики, моторов осей XYZ, экструдера и нагревателя стола .К нему через include подключены остальные.
 Файл [adxl345.cfg](https://github.com/Laker87/klipper_config/blob/master/adxl345.cfg) содержит параметры для компенсации резонансов (input shaper).
-Файл [fans.cfg](https://github.com/Laker87/klipper_config/blob/master/fans.cfg) содержит найстройки вентиляторов обдува хотендов, модели и электроники, а также макросы для правильной их работы.
+Файл [fans.cfg](https://github.com/Laker87/klipper_config/blob/master/fans.cfg) содержит настройки вентиляторов обдува хотендов, модели и электроники, а также макросы для правильной их работы.
 Файл [idex.cfg](https://github.com/Laker87/klipper_config/blob/master/idex.cfg) содержит параметры для работы второй головы, а также макросы смены голово Т0, Т1 и макрос calibrate_separation для предварительной калибровки смещения второй головы по оси X.
 Файл [macros.cfg](https://github.com/Laker87/klipper_config/blob/master/macros.cfg) содержит все прочие макросы для начала, окончания печати, смены филамента и прочее.
 Файл [moonraker.conf](https://github.com/Laker87/klipper_config/blob/master/moonraker.conf) является основным конфигурационным файлом вебсервера [Moonraker](https://github.com/Arksine/moonraker).
