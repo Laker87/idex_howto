@@ -16,3 +16,6 @@
 Файл [macros.cfg](https://github.com/Laker87/klipper_config/blob/master/macros.cfg) содержит все прочие макросы для начала, окончания печати, смены филамента и прочее.
 Файл [moonraker.conf](https://github.com/Laker87/klipper_config/blob/master/moonraker.conf) является основным конфигурационным файлом вебсервера [Moonraker](https://github.com/Arksine/moonraker).
 Остальные конфигурационные файлы являются не обязательными и их можно исключить закомментировав или удалив соответствующую секцию include в файле [printer.cfg](https://github.com/Laker87/klipper_config/blob/master/printer.cfg).
+
+# Настройка конфигурационных файлов
+Скоро!
